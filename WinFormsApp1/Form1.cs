@@ -16,7 +16,7 @@ namespace WinFormsApp1
                     Button button = new Button();
                     button.Text = (sor * oszlop).ToString();
                     button.Top = sor * 40;
-                    button.Left = oszlop * 40;
+                    button.Left = oszlop * 41;
                     button.Height = 40;
                     button.Width = 40;
                     Controls.Add(button);
