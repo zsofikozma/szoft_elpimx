@@ -1,6 +1,6 @@
-﻿namespace ZHgyak
+﻿namespace fibo
 {
-    partial class szorzotabla
+    partial class Form1
     {
         /// <summary>
         ///  Required designer variable.
