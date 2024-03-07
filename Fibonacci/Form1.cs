@@ -1,3 +1,4 @@
+Marciiii
 namespace Fibonacci
 {
     public partial class Form1 : Form
@@ -30,6 +31,11 @@ namespace Fibonacci
             return Fibonacci(n - 1) + Fibonacci(n - 2);
 
 
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
         }
     }
