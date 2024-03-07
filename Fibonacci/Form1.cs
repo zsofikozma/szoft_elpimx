@@ -11,7 +11,7 @@ namespace Fibonacci
         {
             List<Sor> sorok = new List<Sor>();
 
-            for (int i = 0; i < 50; i++)
+            for (int i = 0; i < 40; i++)
             {
                 Sor újSor = new Sor();
                 újSor.Érték = Fibonacci(i);
