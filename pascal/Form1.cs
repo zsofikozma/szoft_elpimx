@@ -16,7 +16,7 @@ namespace pascal
                     Button b = new Button();
                     b.Top = sor * 60;
                     b.Left = oszlop * 60;
-                    b.Height = 60;
+                    b.Height = 61;
                     b.Width = 60;
                     this.Controls.Add(b);
                     int p = Faktorialis(sor) / (Faktorialis(oszlop) * (Faktorialis(sor - oszlop)));
