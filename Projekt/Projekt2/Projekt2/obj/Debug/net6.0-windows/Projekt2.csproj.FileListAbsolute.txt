@@ -1,0 +1,17 @@
+C:\Users\kozma\source\repos\Projekt2\Projekt2\bin\Debug\net6.0-windows\Projekt2.exe
+C:\Users\kozma\source\repos\Projekt2\Projekt2\bin\Debug\net6.0-windows\Projekt2.deps.json
+C:\Users\kozma\source\repos\Projekt2\Projekt2\bin\Debug\net6.0-windows\Projekt2.runtimeconfig.json
+C:\Users\kozma\source\repos\Projekt2\Projekt2\bin\Debug\net6.0-windows\Projekt2.dll
+C:\Users\kozma\source\repos\Projekt2\Projekt2\bin\Debug\net6.0-windows\Projekt2.pdb
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.Form1.resources
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.csproj.GenerateResource.cache
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.AssemblyInfoInputs.cache
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.AssemblyInfo.cs
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.csproj.CoreCompileInputs.cache
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.dll
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\refint\Projekt2.dll
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.pdb
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\Projekt2.genruntimeconfig.cache
+C:\Users\kozma\source\repos\Projekt2\Projekt2\obj\Debug\net6.0-windows\ref\Projekt2.dll
+C:\Users\kozma\source\repos\Projekt2\Projekt2\bin\Debug\net6.0-windows\TextFile1.txt
